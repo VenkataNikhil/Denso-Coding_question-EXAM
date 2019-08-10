@@ -1,8 +1,8 @@
-#Denso-Coding_question-EXAM
+# Denso-Coding_question-EXAM
 
-##Following code is the solution for the question asked in Denso online exam. 
+# #Following code is the solution for the question asked in Denso online exam. 
 
-###Problem statement:
+### Problem statement:
 The coffee shop that you use often has a service that is limited today.
 
 - When purchasing coffee, the price for the next purchase will be P% off.
