@@ -1,6 +1,6 @@
 # Denso-Coding_question-EXAM
 
-# #Following code is the solution for the question asked in Denso online exam. 
+## Following code is the solution for the question asked in Denso online exam. 
 
 ### Problem statement:
 The coffee shop that you use often has a service that is limited today.
@@ -15,17 +15,17 @@ You want to drink coffee for free, so you will calculate how many INR you can pa
 
 Let's actually write a program and calculate it.
 
-### [constraints]
+> ## [constraints]
 The following conditions are met in all test cases.
 - 0 ≦ X ≦ 10000
 - 1 ≦ P ≦ 100
 
 
->[The value to be entered]
+> ## [The value to be entered]
 The input is given in the following format: X P
 - An integer X indicating the price of coffee and an integer P indicating the discount rate are given in this order, separated by a space.
 - Input is one line, and one line feed is inserted at the end.
 
->[Expected output]
+> ## [Expected output]
 - Please output the amount necessary to order for free.
 - Put a newline at the end of the output and do not include extra characters or blank lines.
