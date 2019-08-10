@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int price;
+    float discount;
+    cin>>price;
+    cin>>discount;
+    int count = price;
+    discount = 100-discount;
+    while(price>=1){
+        count = count + (discount/100)*price;
+        price = price*(discount/100);}
+    cout<<count;
+    return 0;
+}
